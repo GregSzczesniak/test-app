@@ -1,0 +1,107 @@
+[
+  {
+    "year": 2023,
+    "products": [{
+      "id": "net2023",
+      "name": "Internet",
+      "price": 39,
+      "currency": "PLN"
+    },
+    {
+      "id": "tv2023",
+      "name": "Telewizja",
+      "price": 49,
+      "currency": "PLN"
+    },
+    {
+      "id": "sub2023",
+      "name": "Abonament telefoniczny",
+      "price": 29,
+      "currency": "PLN"
+    },
+    {
+      "id": "dec2023",
+      "name": "Dekoder 4K",
+      "price": 29,
+      "currency": "PLN"
+    },
+    {
+      "id": "pack12023",
+      "name": "Internet + Telewizja",
+      "price": 79,
+      "currency": "PLN"
+    },
+    {
+      "id": "pack22023",
+      "name": "Internet + Abonament telefoniczny",
+      "price": 64,
+      "currency": "PLN"
+    }]
+  }, {
+    "year": 2024,
+    "products": [{
+      "id": "net2024",
+      "name": "Internet",
+      "price": 49,
+      "currency": "PLN"
+    }, {
+      "id": "tv2024",
+      "name": "Telewizja",
+      "price": 49,
+      "currency": "PLN"
+    }, {
+      "id": "sub2024",
+      "name": "Abonament telefoniczny",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "dec2024",
+      "name": "Dekoder 4K",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "pack12024",
+      "name": "Internet + Telewizja",
+      "price": 89,
+      "currency": "PLN"
+    }, {
+      "id": "pack22024",
+      "name": "Internet + Abonament telefoniczny",
+      "price": 64,
+      "currency": "PLN"
+    }]
+  }, {
+    "year": 2025,
+    "products": [{
+      "id": "net2025",
+      "name": "Internet",
+      "price": 59,
+      "currency": "PLN"
+    }, {
+      "id": "tv2025",
+      "name": "Telewizja",
+      "price": 59,
+      "currency": "PLN"
+    }, {
+      "id": "sub2025",
+      "name": "Abonament telefoniczny",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "dec2025",
+      "name": "Dekoder 4K",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "pack12025",
+      "name": "Internet + Telewizja",
+      "price": 99,
+      "currency": "PLN"
+    }, {
+      "id": "pack22025",
+      "name": "Internet + Abonament telefoniczny",
+      "price": 64,
+      "currency": "PLN"
+    }]
+  }
+]

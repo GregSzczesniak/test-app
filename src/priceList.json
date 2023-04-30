@@ -1,0 +1,89 @@
+[
+  {
+    "year": 2023,
+    "products": [{
+      "id": "net",
+      "price": 39,
+      "currency": "PLN"
+    },
+    {
+      "id": "tv",
+      "price": 49,
+      "currency": "PLN"
+    },
+    {
+      "id": "sub",
+      "price": 29,
+      "currency": "PLN"
+    },
+    {
+      "id": "dec",
+      "price": 29,
+      "currency": "PLN"
+    },
+    {
+      "id": "pack1",
+      "price": 79,
+      "currency": "PLN"
+    },
+    {
+      "id": "pack2",
+      "price": 64,
+      "currency": "PLN"
+    }]
+  }, {
+    "year": 2024,
+    "products": [{
+      "id": "net",
+      "price": 49,
+      "currency": "PLN"
+    }, {
+      "id": "tv",
+      "price": 49,
+      "currency": "PLN"
+    }, {
+      "id": "sub",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "dec",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "pack1",
+      "price": 89,
+      "currency": "PLN"
+    }, {
+      "id": "pack2",
+      "price": 64,
+      "currency": "PLN"
+    }]
+  }, {
+    "year": 2025,
+    "products": [{
+      "id": "net",
+      "price": 59,
+      "currency": "PLN"
+    }, {
+      "id": "tv",
+      "price": 59,
+      "currency": "PLN"
+    }, {
+      "id": "sub",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "dec",
+      "price": 29,
+      "currency": "PLN"
+    }, {
+      "id": "pack1",
+      "price": 99,
+      "currency": "PLN"
+    }, {
+      "id": "pack2",
+      "price": 64,
+      "currency": "PLN"
+    }]
+  }
+]

@@ -1,0 +1,8 @@
+@use 'sass:list';
+@use '../../styles/abstracts/main' as *;
+
+.select {
+  &__label {
+    margin: 0 map-get($space, s) 0 0;
+  }
+}

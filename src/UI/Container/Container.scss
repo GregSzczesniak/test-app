@@ -1,0 +1,20 @@
+@use 'sass:list';
+@use '../../styles/abstracts/main' as *;
+
+.container {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: map-get($space, s);
+
+  &--column {
+    @include flex();
+
+    @media only screen and (max-width: 767px) {
+      flex-wrap: wrap;
+    }
+  }
+
+  &--inner {
+    margin: 0 50px 0 0;
+  }
+}

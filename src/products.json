@@ -1,0 +1,24 @@
+[{
+  "id": "net",
+  "name": "Internet",
+  "disabled": false,
+  "enabledWith": []
+},
+{
+  "id": "tv",
+  "name": "Telewizja",
+  "disabled": false,
+  "enabledWith": []
+},
+{
+  "id": "sub",
+  "name": "Abonament telefoniczny",
+  "disabled": false,
+  "enabledWith": []
+},
+{
+  "id": "dec",
+  "name": "Dekoder 4K",
+  "disabled": true,
+  "enabledWith": ["tv"]
+}]

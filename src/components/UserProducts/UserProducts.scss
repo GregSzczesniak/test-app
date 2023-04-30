@@ -1,0 +1,9 @@
+@use 'sass:list';
+@use '../../styles/abstracts/main' as *;
+
+.user-products {
+
+  &__list {
+    margin-top: map-get($space, s);
+  }
+}

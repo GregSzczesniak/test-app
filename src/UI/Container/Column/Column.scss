@@ -1,0 +1,10 @@
+@use 'sass:list';
+@use '../../../styles/abstracts/main' as *;
+
+.column {
+
+  &--50 {
+    flex: 50%;
+    padding: 0 map-get($space, m);
+  }
+}

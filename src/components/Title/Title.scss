@@ -1,0 +1,27 @@
+@use 'sass:list';
+@use '../../styles/abstracts/main' as *;
+
+.title {
+  font-size: $title-size-2;
+  margin: map-get($space, s) 0;
+
+  &--spacer-m {
+    margin-bottom: map-get($space, m);
+  }
+
+  &--weight-bold {
+    font-weight: bold;
+  }
+
+  &--h3 {
+    font-size: $title-size-3;
+  }
+
+  &--h4 {
+    font-size: $title-size-4;
+  }
+
+  &--align-center {
+    text-align: center;
+  }
+}

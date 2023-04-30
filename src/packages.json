@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pack1",
+    "name": "Internet + Telewizja",
+    "products": ["net", "tv"],
+    "extraProducts": ["dec"]
+  },
+  {
+    "id": "pack2",
+    "name": "Internet + Abonament telefoniczny",
+    "products": ["net", "sub"],
+    "extraProducts": []
+  }
+]
